@@ -1,0 +1,8 @@
+com\cn\zzgl\config\swagger2\Swagger2.class
+com\cn\zzgl\config\system\AjaxResult.class
+com\cn\zzgl\config\system\AppStatus.class
+com\cn\zzgl\config\start\OnStart.class
+com\cn\zzgl\config\system\BaseController.class
+com\cn\zzgl\app\controller\TestController.class
+com\cn\zzgl\ZzglStartBoot.class
+com\cn\zzgl\util\DateUtl.class
